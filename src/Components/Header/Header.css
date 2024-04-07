@@ -1,0 +1,20 @@
+.header-wrapper{
+    padding: 0 100px;
+    background-color: #1C2B35;
+}
+.nav-flex-cont {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.main-menu{
+    display: flex;
+    list-style: none;
+}
+.main-menu li a {
+    text-decoration: none;
+    color: white;
+    padding: 8px 25px;
+    display: block;
+    font-size: 17px;
+}
