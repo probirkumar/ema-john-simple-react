@@ -1,0 +1,12 @@
+.review-item {
+    display: flex;
+}
+
+.review-item img {
+    width: 91px;
+}
+
+.revirew-details-container{
+    display: flex;
+    justify-content: space-between;
+}
